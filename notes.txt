@@ -1,0 +1,11 @@
+notes.txt
+20180619Z
+jpt4
+Coq notes
+
+https://proofgeneral.github.io/doc/userman/ProofGeneral_3/#Script-processing-commands
+
+M-x proof-goto-point
+
+M-x proof-electric-terminator-toggle
+
