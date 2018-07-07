@@ -3,6 +3,13 @@ notes.txt
 jpt4
 Coq notes
 
+20180620Z
+
+To do: Fork Proof General, modify to append -emacs instead of
+deprecated argument -emacs-U to coqtop
+
+20180619Z
+
 https://proofgeneral.github.io/doc/userman/ProofGeneral_3/#Script-processing-commands
 
 M-x proof-goto-point
